@@ -1,4 +1,16 @@
-### Hi there 👋
+1### sntgopl.desktop$ const find = (will) {
+2   will.persistance = build.passion;
+3   if (fail === true) {
+4    learn().then(moveOn);
+5   }
+6  return experience.upgrade(conciousness);
+7  };
+8
+9
+10   find(passion) = find(home) + find(self);
+11   Share(love)
+
+
 
 <!--
 **sntgopl/sntgopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
