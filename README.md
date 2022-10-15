@@ -10,4 +10,4 @@
 
 --> lets go make some changes.
 
-Get access to my personal Portfolio. [Live-Demo] (https://sntgopl.github.io/)
+Get access to my personal Portfolio. [Live-Demo](https://sntgopl.github.io/)
